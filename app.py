@@ -45,7 +45,7 @@ if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
 
 if not st.session_state.authenticated:
-    st.title("🔒 김영편입 노량진 학습 플랫폼")
+    st.title("🔒 김영편입 일산 학습 플랫폼")
     st.info("본 서비스는 수강생 전용 프리미엄 학습 시스템입니다.")
 
     pwd = st.text_input("수강생 인증 코드를 입력하세요:", type="password")
