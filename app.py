@@ -5,7 +5,7 @@ import random
 import os
 
 st.set_page_config(
-    page_title="김영편입 노량진 - 종합 학습 플랫폼",
+    page_title="김영편입 일산 - 종합 학습 플랫폼",
     page_icon="🚀",
     layout="wide"
 )
